@@ -6,3 +6,4 @@ Memorizing the commmands
 How it works and when and where to use it
 
 Commit line1
+Commit line2
